@@ -1,5 +1,5 @@
 - Last name: Haixin.
 - First name: Zhong.
-- Personal: A sophomore at Fujian Normal University.
+- Personal: A sophomore postgraduate at Fujian Normal University.
 - Research interests: Computer vision, machine learning.
 - Reach me: zhonghaixin1999@163.com
